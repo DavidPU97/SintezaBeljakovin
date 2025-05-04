@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Animal
+  - Plant
+  - Bacteria
+  - Fungus
+  - chalkboard
+  - Mitohondrij
+  - Ribosom1
+  - Ribosom2
+  - NuclearEnvelope
+  - Nucleolus
+  - Chromosome10
+  - Chromosome11
+  - Chromosome12
+  - Chromosome13
+  - Chromosome14
+  - Chromosome15
+  - Chromosome16
+  - Chromosome17
+  - Chromosome18
+  - Chromosome19
+  - Chromosome20
+  - Chromosome21
+  - Chromosome22
+  - Chromosome23
+  - color
+  - dna
+  - speed
+  - Chromosome1
+  - Chromosome2
+  - Chromosome3
+  - Chromosome4
+  - Chromosome5
+  - Chromosome6
+  - Chromosome7
+  - Chromosome8
+  - Chromosome9
+  - Floor
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Outlined Object
+  - Water
+  - UI
+  - Spawner Contact
+  - Placeable Surface
+  - IgnoreClick
+  - Outlined ObjectCLICK
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Teleportation
+  - TransparentFloor
+  - PassthroughLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - XR Simulation
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: TextBubbleLayer
+    uniqueID: 620401103
+    locked: 0
